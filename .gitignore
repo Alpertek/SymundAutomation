@@ -2,7 +2,4 @@
 /workspace.xml
 /.idea/
 *.class
-/target/classes/
 /main/
-# Project exclude paths
-/target/
