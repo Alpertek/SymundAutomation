@@ -1,0 +1,58 @@
+-------------------------------------------------------------------------------
+Test set: EMPTY_NAME
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 6, Skipped: 0, Time elapsed: 111.799 s <<< FAILURE! - in EMPTY_NAME
+Verify that user can log out and ends up in login page- AlpY(EMPTY_NAME)  Time elapsed: 55.383 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+Timed out waiting for driver server to start.
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-I7SPS7A', ip: '192.168.2.115', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
+Driver info: driver.version: Driver
+Caused by: org.openqa.selenium.net.UrlChecker$TimeoutException: Timed out waiting for [http://localhost:46258/status] to be available after 20017 ms
+Caused by: java.util.concurrent.TimeoutException
+
+Verify that user can see valid placeholders on Username and Password fields - AlpY(EMPTY_NAME)  Time elapsed: 55.539 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+Timed out waiting for driver server to start.
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-I7SPS7A', ip: '192.168.2.115', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
+Driver info: driver.version: Driver
+Caused by: org.openqa.selenium.net.UrlChecker$TimeoutException: Timed out waiting for [http://localhost:45523/status] to be available after 20017 ms
+Caused by: java.util.concurrent.TimeoutException
+
+Verify that user can log out and ends up in login page- AlpY(EMPTY_NAME)  Time elapsed: 0 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+Timed out waiting for driver server to start.
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-I7SPS7A', ip: '192.168.2.115', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
+Driver info: driver.version: Driver
+Caused by: org.openqa.selenium.net.UrlChecker$TimeoutException: Timed out waiting for [http://localhost:39407/status] to be available after 20005 ms
+Caused by: java.util.concurrent.TimeoutException
+
+Verify that user cannot go back to home page after having logged out - AlpY(EMPTY_NAME)  Time elapsed: 56.407 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+Timed out waiting for driver server to start.
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-I7SPS7A', ip: '192.168.2.115', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
+Driver info: driver.version: Driver
+Caused by: org.openqa.selenium.net.UrlChecker$TimeoutException: Timed out waiting for [http://localhost:33912/status] to be available after 20011 ms
+Caused by: java.util.concurrent.TimeoutException
+
+Verify that user can see valid placeholders on Username and Password fields - AlpY(EMPTY_NAME)  Time elapsed: 0 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+Timed out waiting for driver server to start.
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-I7SPS7A', ip: '192.168.2.115', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
+Driver info: driver.version: Driver
+Caused by: org.openqa.selenium.net.UrlChecker$TimeoutException: Timed out waiting for [http://localhost:36818/status] to be available after 20057 ms
+Caused by: java.util.concurrent.TimeoutException
+
+Verify that user cannot go back to home page after having logged out - AlpY(EMPTY_NAME)  Time elapsed: 0 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+Timed out waiting for driver server to start.
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-I7SPS7A', ip: '192.168.2.115', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_291'
+Driver info: driver.version: Driver
+Caused by: org.openqa.selenium.net.UrlChecker$TimeoutException: Timed out waiting for [http://localhost:10677/status] to be available after 20002 ms
+Caused by: java.util.concurrent.TimeoutException
+

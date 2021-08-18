@@ -1,6 +1,7 @@
 com\symund\utilities\BrowserUtils.class
 com\symund\pages\LoginPage.class
 com\symund\pages\BasePage.class
+com\symund\utilities\Network.class
 com\symund\runners\CukesRunner.class
 com\symund\step_definitions\Hooks.class
 com\symund\utilities\Driver.class

@@ -1,3 +1,4 @@
+@smoke
 @SYMU-366
 Feature:
 

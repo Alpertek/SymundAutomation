@@ -1,4 +1,4 @@
-@SYMU-366
+@SYMU-366 @smoke
 Feature:
 
   @SYMU-364

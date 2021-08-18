@@ -1,7 +1,8 @@
+
 @SYMU-354
 Feature:
 
-  @SYMU-353
+  @SYMU-353 @smoke
   Scenario: Verify that user can see valid placeholders on Username and Password fields - AlpY
     Given the user is on the login page
     When user leaves username and password blank
